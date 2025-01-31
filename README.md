@@ -4,9 +4,10 @@ This project focuses on building a Convolutional Neural Network (CNN) model to c
 Activities: Libraries, Data Import, and Setup
 # Week-2
 Date: 28th january 2025-31st January 2025
-Activities:
-  Model training, Evaluation, Predictions
-  Trained the CNN model on the dataset
+
+Activities: Model training, Evaluation, Predictions
+
+  Trained the CNN model on the dataset.
   Optimized hyperparameters to improve accuracy.
   Evaluated model performance using accuracy and loss metrics.
   Performed predictions on test images.
